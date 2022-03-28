@@ -11,7 +11,6 @@
   inputs.src-eachdo-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-eachdo-v0_1_0.owner = "jiro4989";
   inputs.src-eachdo-v0_1_0.repo  = "eachdo";
-  inputs.src-eachdo-v0_1_0.dir   = "";
   inputs.src-eachdo-v0_1_0.type  = "github";
   
   inputs."argparse".owner = "nim-nix-pkgs";
